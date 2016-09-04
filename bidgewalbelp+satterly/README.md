@@ -6,7 +6,7 @@ Source: https://bidgewalbelp.neocities.org/filters.txt (OFFLINE)
 
 Mirror Version: 22 December 2015
 
-———
+---
 
 Bidgewalbelp Filters resurrected as Satterly Filters
 
