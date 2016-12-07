@@ -1,0 +1,8 @@
+##########################################################################
+# Feodo Domain Blocklist                                                 #
+# Generated on 2016-01-13 18:56:22 UTC                                   #
+#                                                                        #
+# For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
+##########################################################################
+# START
+# END (0 entries)

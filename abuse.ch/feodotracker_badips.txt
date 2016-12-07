@@ -1,0 +1,8 @@
+##########################################################################
+# Feodo BadIP Blocklist (BadIPs)                                         #
+# Generated on 2016-09-23 23:51:13 UTC                                   #
+#                                                                        #
+# For questions please refer to https://feodotracker.abuse.ch/blocklist/ #
+##########################################################################
+# START
+# END (0 entries)
